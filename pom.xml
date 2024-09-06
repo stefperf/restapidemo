@@ -15,18 +15,20 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>restapidemo</name>
 	<description>Demo project for Spring Boot</description>
-	<url/>
+	<url>https://github.com/stefperf/restapidemo</url>
 	<licenses>
 		<license/>
 	</licenses>
 	<developers>
-		<developer/>
+		<developer>
+			<name>Stefano Perfetti</name>
+		</developer>
 	</developers>
 	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
+		<connection>scm:git:https://github.com/stefperf/restapidemo.git</connection>
+		<developerConnection>scm:git:git@github.com:stefperf/restapidemo.git</developerConnection>
+		<tag>HEAD</tag>
+		<url>https://github.com/stefperf/restapidemo</url>
 	</scm>
 	<properties>
 		<java.version>21</java.version>
